@@ -1,6 +1,6 @@
 # Create a countdown timer in ReactJS that goes from 60 to 1
 
-```
+```javascript
 import React, { useState, useEffect } from 'react';
 
 function CountdownTimer() {
@@ -31,7 +31,7 @@ export default CountdownTimer;
 # Create a countdown timer in ReactJS that goes from 60 to 1 
 - add pause and reset buttons to your countdown timer in React, you can modify the previous example by adding two buttons and handling their click events.
 
-```
+```javascript
 import React, { useState, useEffect } from 'react';
 
 function CountdownTimer() {
